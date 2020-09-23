@@ -1,5 +1,6 @@
 # From Code To Market  
 ### Network of developers and correlated returns of cryptocurrencies  
+#   
 Code development and market time series analysis for cryptocurrencies developed on GitHub
 
 
