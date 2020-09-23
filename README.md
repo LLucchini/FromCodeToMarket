@@ -1,6 +1,9 @@
-## From Code To Market: Network of developers and correlated returns of cryptocurrencies
+## [From Code To Market: Network of developers and correlated returns of cryptocurrencies](https://arxiv.org/abs/2004.07290)
 
 __Code development and market time series analysis for cryptocurrencies developed on GitHub__
+
+_Code will ber released as soon as possible in this repo_
+_Code is written in python 3.4 and will be released in the form of IPython notebooks_
 
 
 1. Notebook 1 helps retrieving and preprocessing market data and github repositories for cryptocurrency projects.
