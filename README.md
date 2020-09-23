@@ -2,7 +2,7 @@
 
 __Code development and market time series analysis for cryptocurrencies developed on GitHub__
 
-_Code will ber released as soon as possible in this repo_  
+_Code will be released shortly in this repo_  
 _Code is written in python 3.4 and will be released in the form of IPython notebooks_
 
 
