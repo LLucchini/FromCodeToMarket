@@ -1,7 +1,6 @@
-## From Code To Market  
-**Network of developers and correlated returns of cryptocurrencies**
-#   
-Code development and market time series analysis for cryptocurrencies developed on GitHub
+## From Code To Market: _Network of developers and correlated returns of cryptocurrencies_  
+
+__Code development and market time series analysis for cryptocurrencies developed on GitHub__
 
 
 1. Notebook 1 helps retrieving and preprocessing market data and github repositories for cryptocurrency projects.
