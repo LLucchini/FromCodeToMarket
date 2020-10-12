@@ -10,5 +10,5 @@ _Code is written in python 3.4 and will be released in the form of IPython noteb
 2. This notebook run correlation experiments. Experiments are performed for robustness over multiple window and for multiple measure. All the computations were performed on 4 different set of pairs as explained in the manuscript.
 3. Notebook 3 draws most of the figures presented in the main text as well as those in the Supplementary Information.
 
-### NOTE
+#### NOTE
 __If you use this code or any of its parts, please cite the following: [https://arxiv.org/abs/2004.07290](https://arxiv.org/abs/2004.07290)__
