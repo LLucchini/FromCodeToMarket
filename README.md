@@ -1,4 +1,4 @@
-## [From Code To Market: Network of developers and correlated returns of cryptocurrencies](https://arxiv.org/abs/2004.07290)
+## [From Code To Market: Network of developers and correlated returns of cryptocurrencies](https://doi.org/10.1126/sciadv.abd2204)
 
 __Code development and market time series analysis for cryptocurrencies developed on GitHub__
 
@@ -10,4 +10,6 @@ _Code is written in python 3.4 and will be released in the form of IPython noteb
 3. Notebook 3 draws most of the figures presented in the main text as well as those in the Supplementary Information.
 
 #### NOTE
-__If you use this code or any of its parts, please cite the following: [https://arxiv.org/abs/2004.07290](https://arxiv.org/abs/2004.07290)__
+__If you use this code or any of its parts, please cite the following: ["From code to market: Network of developers and correlated returns of cryptocurrencies" in ScienceAdvances](https://doi.org/10.1126/sciadv.abd2204)__
+
+Full text of the article is also available on the ArXiv @[https://arxiv.org/abs/2004.07290](https://arxiv.org/abs/2004.07290)
